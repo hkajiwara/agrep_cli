@@ -1,0 +1,4 @@
+host: <end point>
+client_secret: <client secret>
+client_id: <client id>
+#debugging: true
