@@ -9,6 +9,10 @@ Signal.trap(:INT) {
   puts "\nBye!"
   exit(0)
 }
+Signal.trap(:TERM) {
+  puts "\nBye!"
+  exit(0)
+}
 
 
 # Parse
