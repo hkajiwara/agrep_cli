@@ -1,4 +1,4 @@
-host: <end point>
-client_secret: <client secret>
-client_id: <client id>
+host: test.salesforce.com
+client_secret: <your client secret>
+client_id: <your client id>
 #debugging: true
